@@ -16,10 +16,10 @@
 📊 Aspiring <b>Professional Data Scientist</b> <br><br>
 🚀 Passionate about problem solving and continuous learning
  </tr>
-    </tr>
+    </td>
     <td width="40%" align="center">
       <img src="IMG-20260117-WA0030.jpg" width="250" style="border-radius:15px;" alt="Muhammad Haroon"/>
-    </tr>
+    </td>
 
  
 </table>
