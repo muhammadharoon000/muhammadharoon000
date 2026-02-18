@@ -15,15 +15,13 @@
 🎨 Skilled in <b>Adobe Photoshop & Adobe Illustrator</b> <br><br>
 📊 Aspiring <b>Professional Data Scientist</b> <br><br>
 🚀 Passionate about problem solving and continuous learning
-
-    </td>
-
-    <!-- RIGHT SIDE (Profile Image) -->
+ </tr>
+    </tr>
     <td width="40%" align="center">
       <img src="IMG-20260117-WA0030.jpg" width="250" style="border-radius:15px;" alt="Muhammad Haroon"/>
-    </td>
+    </tr>
 
-  </tr>
+ 
 </table>
 
 <hr>
