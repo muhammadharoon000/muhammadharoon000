@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Future Data Scientist | Python Developer</h3>
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="200" style="border-radius: 50%;" alt="profile image"/>
+  <img src="IMG-20260117-WA0030.jpg" width="200" style="border-radius: 50%;" alt="profile image"/>
 </p>
 
 ---
