@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Haroon</h1>
-<h3 align="center">Computer Science Student | Future Data Scientist | Python Developer</h3>
+<h1>Hi 👋, I'm Muhammad Haroon</h1>
+<h3>Computer Science Student | Future Data Scientist | Python Developer</h3>
 
 <br>
 
