@@ -3,37 +3,42 @@
 
 <br>
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+<table>
+<tr>
+  <!-- LEFT: About Section -->
+  <td width="60%" valign="top">
 
-  <!-- LEFT SIDE -->
-  <div style="flex: 1; min-width: 300px;">
+<h2>👨‍🎓 About Me</h2>
 
-  <h2>👨‍🎓 About Me</h2>
+🎓 Computer Science Student at <b>University of AJK, Pakistan</b> <br><br>
+💻 Strong command in <b>Python, C++, HTML, CSS, JavaScript</b> <br><br>
+🎨 Skilled in <b>Graphic Designing</b> (Photoshop & Illustrator) <br><br>
+📊 Passionate about <b>Data Science, Machine Learning, and AI</b> <br><br>
+🛠️ Interested in <b>Web Development, Data Analysis, and Problem Solving</b> <br><br>
+🚀 Currently focusing on <b>Data Structures & Algorithms, Python Projects, and Data Science Projects</b> <br><br>
+🎯 Career Goal: Become a <b>Professional Data Scientist</b>
 
-  🎓 Computer Science Student at <b>University of AJK, Pakistan</b> <br><br>
-  💻 Strong command in <b>Python, C++, HTML, CSS, JavaScript</b> <br><br>
-  🎨 Skilled in <b>Adobe Photoshop & Adobe Illustrator</b> <br><br>
-  📊 Aspiring <b>Professional Data Scientist</b> <br><br>
-  🚀 Passionate about problem solving and continuous learning
+  </td>
 
-  </div>
-
-  <!-- RIGHT SIDE -->
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="IMG-20260117-WA0030.jpg" width="250" style="border-radius: 15px;" />
-  </div>
-
-</div>
+  <!-- RIGHT: Profile Image -->
+  <td width="40%" align="center" valign="top">
+    <img src="IMG-20260117-WA0030.jpg" width="250" style="border-radius:15px;" alt="Muhammad Haroon"/>
+  </td>
+</tr>
+</table>
 
 <hr>
 
 <h2>🛠️ Technical Skills</h2>
 
-<b>Programming:</b> Python | C++ | JavaScript <br><br>
-<b>Web Development:</b> HTML | CSS <br><br>
-<b>Data Science:</b> NumPy | Pandas <br><br>
-<b>Design Tools:</b> Photoshop | Illustrator
+<b>Programming Languages:</b> Python, C++, JavaScript, Java <br><br>
+
+<b>Web Development:</b> HTML, CSS, Bootstrap, React <br><br>
+
+<b>Data Science & Libraries:</b> NumPy, Pandas, Matplotlib, Scikit-learn <br><br>
+
+<b>Design Tools:</b> Photoshop, Illustrator, Figma
 
 <hr>
 
-<h3 align="center">💡 Code. Learn. Build. Repeat. 💡</h3>
+<h3 align="center">💡 "Code. Learn. Build. Repeat." 💡</h3>
